@@ -1,7 +1,7 @@
 Задание 2
 
 Название таблицы | Название первичного ключа
-actor		 	 | actor_id
+actor		 	       | actor_id
 address          | address_id
 category	 	 | category_id
 city		 	 | city_id
